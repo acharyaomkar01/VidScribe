@@ -89,6 +89,7 @@ a:hover,a:focus{color:#5173bd;}
 .pace.pace-inactive{display:none;}
 
 .myButton {
+<<<<<<< HEAD
 	background-color:green;
 	border:1px solid green;
 	display:inline-block;
@@ -104,12 +105,31 @@ a:hover,a:focus{color:#5173bd;}
 	background-color:#46cc67;
 	color:white;
 	border: none
+=======
+	background-color:#44c767;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 }
 .myButton:active {
 	position:relative;
 	top:1px;
 }
 
+<<<<<<< HEAD
 .myButton2 {
 	background-color:green;
 	border:1px solid green;
@@ -128,6 +148,23 @@ a:hover,a:focus{color:#5173bd;}
 	border: none
 }
 
+=======
+.file-upload {
+  position: relative;
+  overflow: hidden;
+  margin: 10px; }
+
+.file-upload input.file-input {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0;
+  filter: alpha(opacity=0); }
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 
 .btn,.btn-lg,.input-lg{border-radius:3px;}
 
@@ -154,7 +191,11 @@ a:hover,a:focus{color:#5173bd;}
 	text-align:center;
 	text-shadow:0 1px 0 rgba(0,0,0,.1);
 	background-color:#6883cc;
+<<<<<<< HEAD
 	background-image:url("../images/backg.jpg");
+=======
+	background-image:url("../images/header.png");
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 	background-repeat:no-repeat;
 	background-position:center center;
 	background-attachment:fixed;
@@ -164,6 +205,7 @@ a:hover,a:focus{color:#5173bd;}
 	background-size:cover;
 	}
 
+<<<<<<< HEAD
 .masthead2{
 	position:relative;
 	padding:80px 15px;
@@ -182,6 +224,8 @@ a:hover,a:focus{color:#5173bd;}
 	}
 
 
+=======
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 .masthead .container{
 	animation:fadein 2s;
 	-moz-animation:fadein 2s;
@@ -385,7 +429,11 @@ to {
 	text-align:center;
 }
 .thumbnail .caption p {
+<<<<<<< HEAD
 	color: #12303A;
+=======
+	color: #94a3a8;
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 }
 /*Hover Animation*/
 
@@ -410,6 +458,10 @@ to {
 	width:100%;
 	height:auto;
 	padding:20px;
+<<<<<<< HEAD
+=======
+	background:#FFF;
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 	-webkit-border-radius:5px;
 	-moz-border-radius:5px;
 	border-radius:5px;
@@ -429,6 +481,10 @@ to {
 	position: absolute;
 	pointer-events: none;
 	border-color: rgba(255, 255, 255, 0);
+<<<<<<< HEAD
+=======
+	border-top-color: #ffffff;
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 	border-width: 15px;
 	margin-left: -15px;
 }
@@ -471,6 +527,10 @@ to {
 
 .pricing {
 	padding:25px;
+<<<<<<< HEAD
+=======
+	color:#FFF;
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 	text-align:center;
 	-webkit-border-radius:5px;
 	-moz-border-radius:5px;
@@ -538,11 +598,19 @@ to {
 
 .footercta {
 	padding: 60px 15px;
+<<<<<<< HEAD
 	color: red;
 	text-align: center;
 	text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
 	background-color: #6883cc;
 	background-image:url("../images/backg.jpg");
+=======
+	color: #FFF;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+	background-color: #6883cc;
+	background-image:url("../images/header.png");
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;

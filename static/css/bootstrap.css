@@ -4404,6 +4404,10 @@ a.list-group-item.active > .badge,
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
+<<<<<<< HEAD
+=======
+  background-color: #fff;
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: all .2s ease-in-out;

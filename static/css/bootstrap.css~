@@ -1107,6 +1107,10 @@ pre code {
     width: 58.33333333%;
   }
   .col-md-6 {
+<<<<<<< HEAD
+=======
+    align:center;
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
     width: 50%;
   }
   .col-md-5 {
@@ -4403,7 +4407,12 @@ a.list-group-item.active > .badge,
   display: block;
   padding: 4px;
   margin-bottom: 20px;
+<<<<<<< HEAD
   line-height: 1.
+=======
+  line-height: 1.42857143;
+  background-color: #fff;
+>>>>>>> 2f4236990aa8ad2f5d4bb90779e328a2139cc7ca
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: all .2s ease-in-out;
